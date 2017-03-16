@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/C0D1UM/angular-template/issues"
   },
-  "homepage": "https://github.com/C0D1UM/angular-template#readme"
+  "homepage": "https://github.com/C0D1UM/angular-template#readme",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-bootstrap": "^2.5.0",
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }
