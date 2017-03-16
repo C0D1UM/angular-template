@@ -1,0 +1,19 @@
+{
+  "name": "angular-template",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0D1UM/angular-template.git"
+  },
+  "author": "CODIUM Company Limited",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C0D1UM/angular-template/issues"
+  },
+  "homepage": "https://github.com/C0D1UM/angular-template#readme"
+}
